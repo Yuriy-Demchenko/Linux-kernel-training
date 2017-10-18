@@ -1,0 +1,10 @@
+[   20.835122] memcache: loading out-of-tree module taints kernel.
+[   20.835828] Init module
+[   20.835903] Cache created
+[   20.835904] Cache object size is 16
+[   20.835908] Allocation succeeded
+[   20.835909] Field1 = 1, Field2 = 10, Field3 = 100, Field4 = a
+[   24.502851] serial8250: too much work for irq4
+[   24.564888] serial8250: too much work for irq4
+[   24.628184] serial8250: too much work for irq4
+yuriy@qemu-x86:~$
